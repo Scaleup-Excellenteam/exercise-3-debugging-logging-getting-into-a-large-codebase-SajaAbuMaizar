@@ -19,6 +19,7 @@ MAX_FPS = 15  # FPS for animations
 IMAGES = {}  # images for the chess pieces
 colors = [py.Color("white"), py.Color("gray")]
 
+
 # TODO: AI black has been worked on. Mirror progress for other two modes
 def load_images():
     '''
